@@ -39,7 +39,7 @@
 				<Stuff name = "WoodBlock"/>
 				<Stuff name = "RockBlock"/>
 			</StuffCategories>
-			<CostStuffCount>1</CostStuffCount>
+			<CostStuffCount>100</CostStuffCount>
 		</BeMade>
 		<SnowRenderData>
 			<x>2.3</x>
